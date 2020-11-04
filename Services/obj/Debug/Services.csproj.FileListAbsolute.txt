@@ -1,0 +1,36 @@
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\bin\Debug\Services.dll
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\obj\Debug\Services.dll
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\obj\Debug\Services.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\bin\Debug\Database.dll
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\bin\Debug\Database.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\bin\Debug\Database.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\bin\Debug\Database.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Services\obj\Debug\Services.pdb
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\bin\Debug\Services.dll
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\bin\Debug\Services.pdb
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\bin\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\bin\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\obj\Debug\Services.dll
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Services\obj\Debug\Services.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\bin\Debug\Services.dll
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\bin\Debug\Services.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\bin\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\bin\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\obj\Debug\Services.dll
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Services\obj\Debug\Services.pdb

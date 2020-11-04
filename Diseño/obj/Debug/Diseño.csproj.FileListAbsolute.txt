@@ -1,0 +1,45 @@
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\bin\Debug\Diseño.exe
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.exe
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Encuesta.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Login.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Principal.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Registro.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.Questions.resources
+C:\Users\Pedro\source\repos\Encuestador Itla\Diseño\obj\Debug\Diseño.AddQuiz.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Database.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\bin\Debug\Database.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Answers.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Questions.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.AddQuiz.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Encuesta.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Login.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Principal.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Quiz.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.Registro.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.exe
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.ViewAnswer.resources
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Diseño\obj\Debug\Diseño.AddAnswer.resources
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Diseño\obj\Debug\Diseño.exe
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Diseño\obj\Debug\Diseño.exe
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Diseño\obj\Debug\Diseño.pdb

@@ -1,0 +1,24 @@
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\bin\Debug\Database.dll
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\bin\Debug\Database.pdb
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\obj\Debug\Database.dll
+C:\Users\Pedro\source\repos\Encuestador Itla\Database\obj\Debug\Database.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\bin\Debug\Database.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\bin\Debug\Database.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\obj\Debug\Database.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Encuestador Itla\Database\obj\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\bin\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\bin\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\obj\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Downloads\Encuestador-master\Database\obj\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\bin\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\bin\Debug\Database.pdb
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\obj\Debug\Database.dll
+C:\Users\Maribel-Ciprian\Documents\Encuestador-master\Database\obj\Debug\Database.pdb
